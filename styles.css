@@ -2,8 +2,8 @@ body{
 background-image:url("background.jpg");
 background-size:cover;
 background-image: blur(50px);
-color:white;
-font-family:Arial;
+color: white;
+font-family: Arial;
 }
 
 .main-box{
