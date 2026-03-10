@@ -78,19 +78,9 @@ img {
     text-align: center;
 }
 
-body{
-background-image:url("https://cdn.pixabay.com/photo/2025/03/09/08/26/bridge-9456745_1280.jpg");
-}
-
 img{
     text-align: center;
     justify-self: center;
-   
-}
-
-.btn{
-    background-color: #9DB5B2;
-}
 
 .main-box{
     margin-top:50px;
